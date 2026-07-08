@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: Codex Eclipse JDT Helper
+Bundle-SymbolicName: com.silverlake.codex.jdthelper;singleton:=true
+Bundle-Version: 1.0.1
+Bundle-Vendor: OpenAI
+Bundle-RequiredExecutionEnvironment: JavaSE-21
+Require-Bundle: org.eclipse.equinox.app,
+ org.eclipse.core.runtime,
+ org.eclipse.jdt.core,
+ org.eclipse.text

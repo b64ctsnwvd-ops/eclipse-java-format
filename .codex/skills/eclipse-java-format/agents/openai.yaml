@@ -1,0 +1,4 @@
+interface:
+  display_name: "Eclipse Java Format"
+  short_description: "Format Java with Eclipse parity"
+  default_prompt: "Use $eclipse-java-format after editing Java files in this workspace to apply Eclipse-compatible formatting and verify parity when needed."
